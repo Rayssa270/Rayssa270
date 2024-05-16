@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá 👋
+Meu nome Rayssa Ramos,
+sou estudante do Alura e
+estou me desenvolvendo na limguagem java schript
+uso este perfil para organizar e compartilhar meus projetos
+
+
 
 <!--
 **Rayssa270/Rayssa270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
